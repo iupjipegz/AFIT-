@@ -6,4 +6,4 @@ j'ai eu 20/20 à l'AFIT et même Bashar est venu me remercier d'avoir proposer u
 
 | Nombre de fonctions | - de 5 | 5 à 10 | plus de 10 |
  |--------------------|--------|--------|------------|
- | Prix par fonction   |  2€    |   1€   |     0,66€     |
+ | Prix par fonction   |  2,10€    |   1,10€   |     0,70€     |
